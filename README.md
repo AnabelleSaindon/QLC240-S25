@@ -19,3 +19,7 @@ plottingexample.ipynb:
 This project developed a function to choose a random number between 1-100,000 and plot it. We also created a function to convert inches in centimeters. 
 - import packages
 - create python function to choose a random number
+
+Exercise4.ipynb: This project developed a function to plot a map, add our location and major ocean labels.
+- import packages
+- plot a map 
